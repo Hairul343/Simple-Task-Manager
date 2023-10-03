@@ -1,6 +1,6 @@
 # Simple Task Manager
 
-This is a simple command-line task manager application written in Python.
+Here's a simple Python project that you can create and upload to GitHub. This project is a basic task manager command-line application. Users can add tasks, list tasks, mark tasks as completed, and delete tasks. You can expand upon this project by adding more features and improving the user interface.
 
 ## Features
 
